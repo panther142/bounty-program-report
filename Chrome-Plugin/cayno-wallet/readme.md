@@ -1,4 +1,5 @@
-Contribute list,[OntologyCommunityDevelopers](https://github.com/OntologyCommunityDevelopers):
+Contribute list:
+* [OntologyCommunityDevelopers](https://github.com/OntologyCommunityDevelopers):
 * [cyano-wallet](https://github.com/OntologyCommunityDevelopers/cyano-wallet)
 * [ontology-ts-sdk-trezor](https://github.com/OntologyCommunityDevelopers/ontology-ts-sdk-trezor)
 * [ontology-ts-sdk-ledger](https://github.com/OntologyCommunityDevelopers/ontology-ts-sdk-ledger)
