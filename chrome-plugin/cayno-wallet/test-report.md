@@ -38,43 +38,43 @@ npm install
 npm start
 ```
 
-![Alt text](../../img/OEP/Dapi/DapiDemoCompiled.png)
+![Alt text](img/OEP/Dapi/DapiDemoCompiled.png)
 
-![Alt text](../../img/OEP/Dapi/DapiDemo.png)
+![Alt text](img/OEP/Dapi/DapiDemo.png)
 
 ## Interface
 
-![Alt text](../../img/OEP/Dapi/Asset.png)
+![Alt text](img/OEP/Dapi/Asset.png)
 
 ## Ontology Web Wallet
 
 > https://github.com/OntologyCommunityDevelopers/ontology-plugin-wallet
 
-![Alt text](../../img/OEP/Dapi/OntologyWebWallet.png)
+![Alt text](img/OEP/Dapi/OntologyWebWallet.png)
 
-![Alt text](../../img/OEP/Dapi/OntologyWebWallet2.png)
+![Alt text](img/OEP/Dapi/OntologyWebWallet2.png)
 
-![Alt text](../../img/OEP/Dapi/OntologyWebWallet3.png)
+![Alt text](img/OEP/Dapi/OntologyWebWallet3.png)
 
-![Alt text](../../img/OEP/Dapi/OntologyWebWallet4.png)
+![Alt text](img/OEP/Dapi/OntologyWebWallet4.png)
 
-![Alt text](../../img/OEP/Dapi/OntologyWebWallet5.png)
+![Alt text](img/OEP/Dapi/OntologyWebWallet5.png)
 
 ### Balance Interface
 
 `Python SDK`获取到的`ONG`账户余额与插件中显示的账户余额小数点不一致。
 
-![Alt text](../../img/OEP/Dapi/Balance.png)
+![Alt text](img/OEP/Dapi/Balance.png)
 
 ### Provider
 
 #### onIsInstalled
 
-![Alt text](../../img/OEP/Dapi/onIsInstalled.png)
+![Alt text](img/OEP/Dapi/onIsInstalled.png)
 
 #### onGetName
 
-![Alt text](../../img/OEP/Dapi/onGetName.png)
+![Alt text](img/OEP/Dapi/onGetName.png)
 
 #### onGetVersion
 
@@ -84,7 +84,7 @@ npm start
 
 #### getBlockHeight
 
-![Alt text](../../img/OEP/Dapi/GetBlockHeight.png)
+![Alt text](img/OEP/Dapi/GetBlockHeight.png)
 
 #### getBlock
 
@@ -96,11 +96,11 @@ function getBlock(block: number | string): Promise<Block>
 
 实际使用时没有传入参数的地方，返回结果在区块链浏览器中也未查到。
 
-![Alt text](../../img/OEP/Dapi/GetBlockHeight.png)
+![Alt text](img/OEP/Dapi/GetBlockHeight.png)
 
 #### getBalance
 
-![Alt text](../../img/OEP/Dapi/getBalance.png)
+![Alt text](img/OEP/Dapi/getBalance.png)
 
 返回值与插件中显示的数据不一致。
 
@@ -108,23 +108,23 @@ function getBlock(block: number | string): Promise<Block>
 
 #### getOwnAccounts
 
-![Alt text](../../img/OEP/Dapi/getOwnAccounts.png)
+![Alt text](img/OEP/Dapi/getOwnAccounts.png)
 
 #### getDefaultAccount
 
-![Alt text](../../img/OEP/Dapi/getDefaultAccount.png)
+![Alt text](img/OEP/Dapi/getDefaultAccount.png)
 
 #### makeTransfer
 
-![Alt text](../../img/OEP/Dapi/makeTransfer_1.png)
+![Alt text](img/OEP/Dapi/makeTransfer_1.png)
 
-![Alt text](../../img/OEP/Dapi/makeTransfer_2.png)
+![Alt text](img/OEP/Dapi/makeTransfer_2.png)
 
-![Alt text](../../img/OEP/Dapi/makeTransfer_3.png)
+![Alt text](img/OEP/Dapi/makeTransfer_3.png)
 
-![Alt text](../../img/OEP/Dapi/makeTransfer_4.png)
+![Alt text](img/OEP/Dapi/makeTransfer_4.png)
 
-![Alt text](../../img/OEP/Dapi/makeTransfer_5.png)
+![Alt text](img/OEP/Dapi/makeTransfer_5.png)
 
 转账失败。
 
@@ -132,28 +132,28 @@ function getBlock(block: number | string): Promise<Block>
 
 #### Smart Contract Call
 
-![Alt text](../../img/OEP/Dapi/CallSc_1.png)
+![Alt text](img/OEP/Dapi/CallSc_1.png)
 
-![Alt text](../../img/OEP/Dapi/CallSc_2.png)
+![Alt text](img/OEP/Dapi/CallSc_2.png)
 
-![Alt text](../../img/OEP/Dapi/CallSc_3.png)
+![Alt text](img/OEP/Dapi/CallSc_3.png)
 
-![Alt text](../../img/OEP/Dapi/CallSc_4.png)
+![Alt text](img/OEP/Dapi/CallSc_4.png)
 
-![Alt text](../../img/OEP/Dapi/CallSc_5.png)
+![Alt text](img/OEP/Dapi/CallSc_5.png)
 
-![Alt text](../../img/OEP/Dapi/CallSc_6.png)
+![Alt text](img/OEP/Dapi/CallSc_6.png)
 
 `TxHash`在区块链浏览器中未查询到。
 
 #### Smart Contract Deploy
 
-![Alt text](../../img/OEP/Dapi/DeploySC_1.png)
+![Alt text](img/OEP/Dapi/DeploySC_1.png)
 
-![Alt text](../../img/OEP/Dapi/DeploySC_2.png)
+![Alt text](img/OEP/Dapi/DeploySC_2.png)
 
-![Alt text](../../img/OEP/Dapi/DeploySC_3.png)
+![Alt text](img/OEP/Dapi/DeploySC_3.png)
 
-![Alt text](../../img/OEP/Dapi/DeploySC_4.png)
+![Alt text](img/OEP/Dapi/DeploySC_4.png)
 
 `TxHash`在区块链浏览器中未查询到。
