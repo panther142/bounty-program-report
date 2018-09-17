@@ -134,24 +134,24 @@ fun testGetBlockByHeight() {
 ### Test Result
 
 ```bash
-POST url=http://polaris1.ont.io:20336,{"jsonrpc":"2.0","method":"getblock","params":["44425ae42a394ec0c5f3e41d757ffafa790b53f7301147a291ab9b60a956394c"],"id":1}
+POST url=http://polaris1.ont.io:20336,{"jsonrpc":"2.0","method":"getblock","params":["44425ae42a394ec0c5f3e41d757ffafa790b53f7301147a291ab9b60a956394c"],"id":1}W
 Block: com.github.ontio.core.block.Block@a956394c
 ```
 
-![Alt text](../img/rpcGetBlock_1.png)
+![Alt text](img/rpcGetBlock_1.png)
 
-![Alt text](../img/rpcGetBlock_2.png)
+![Alt text](img/rpcGetBlock_2.png)
 
 ```bash
 POST url=http://polaris1.ont.io:20336,{"jsonrpc":"2.0","method":"getblock","params":[0],"id":1}
 Block: com.github.ontio.core.block.Block@a956394c
 ```
 
-![Alt text](../img/rpcGetBlock_3.png)
+![Alt text](img/rpcGetBlock_3.png)
 
-![Alt text](../img/rpcGetBlock_4.png)
+![Alt text](img/rpcGetBlock_4.png)
 
-![Alt text](../img/rpcGetBlock_5.png)
+![Alt text](img/rpcGetBlock_5.png)
 
 ## getBlockHeight()
 
@@ -293,9 +293,9 @@ POST url=http://polaris1.ont.io:20336,{"jsonrpc":"2.0","method":"getrawtransacti
 Transaction: com.github.ontio.core.payload.DeployCode@433fdd74
 ```
 
-![Alt text](../img/getTransaction_1.png)
+![Alt text](img/getTransaction_1.png)
 
-![Alt text](../img/getTransaction_2.png)
+![Alt text](img/getTransaction_2.png)
 
 ## getMerkleProof()
 
