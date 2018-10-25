@@ -27,7 +27,7 @@ Write tutorail in english for punica with reward, the tutorails will publich in 
 #### 5. How to sync Ontology block?
 
 
-#### 6. How to debug smartcontract in smartx?
+#### 6. How to debug smartcontract in smartx? ---zhaoyue
 
 https://smartx.ont.io
 https://smartxbeta.ont.io
@@ -70,7 +70,7 @@ we will use smartx , solo-chain  , Cyano.
 3. use ts-sdk dev your dApp
 
 
-#### 11. How to build dApp use python sdk?
+#### 11. How to build dApp use python sdk?  ---zhaoyue
 
 1. How to test smartcontract in Ontology private net?
 2. use python-sdk dev your dApp
