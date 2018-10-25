@@ -61,23 +61,23 @@ we will use smartx , solo-chain  , Cyano.
 3. dev your dApp
 4. install punica-ts,follow nep4-box
 
-How to build dApp use ts sdk?
+#### 10. How to build dApp use ts sdk?
 
 1. How to test smartcontract in Ontology private net?
 2. install punica-ts,follow init box
 3. use ts-sdk dev your dApp
 
 
-#### 10. How to build dApp use python sdk?
+#### 11. How to build dApp use python sdk?
 
 1. How to test smartcontract in Ontology private net?
 2. use python-sdk dev your dApp
 3. install punica-python,follow tutorialtoken-box
 
-#### 11. How to build dApp use java sdk?
+#### 12. How to build dApp use java sdk?
 1. How to test smartcontract in Ontology private net?
 2. install punica-python,follow init box
 3. use java-sdk dev your dApp
 
 
-####  more task comming
+#### 13. more task comming
