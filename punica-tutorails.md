@@ -3,6 +3,8 @@
 
 Write tutorail for punica with reward, the tutorails will publich in [punica website](http://punica.ont.io/).
 
+![punica](image/punica.png)
+
 ## Which you maybe need:
 * [docs](https://ontio.github.io/documentation/Introduction_of_Ontology_Smart_Contract_en.html)
 * [SmartX](https://smartx.ont.io/)
