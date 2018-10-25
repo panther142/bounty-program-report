@@ -1,7 +1,7 @@
 
 # punica tutorails
 
-Write tutorail for punica with reward, the tutorails will publich in [punica website](http://punica.ont.io/).
+Write tutorail in english for punica with reward, the tutorails will publich in [punica website](http://punica.ont.io/).
 
 ![punica](image/punica.png)
 
