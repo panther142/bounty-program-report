@@ -16,7 +16,7 @@ Write tutorail in english for punica with reward, the tutorails will publich in 
 
 ## Tutorails you can choose to contribute.
 
-#### 1. How to use test in smartx?
+#### 1. How to use test in smartx?  ---zhaoyue
 
 #### 2. How to wirt test config file in punica?
 
@@ -82,4 +82,7 @@ we will use smartx , solo-chain  , Cyano.
 3. use java-sdk dev your dApp
 
 
-#### 13. more task comming
+#### 13. How to use cyano?
+
+
+#### 14. more task comming
