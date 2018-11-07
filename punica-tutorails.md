@@ -43,7 +43,7 @@ http://smartxdebug.ont.io
 
 
 
-#### 8. How to test smartcontract in Ontology private net/testnet/mainnet?
+#### 8. How to test smartcontract in Ontology private net/testnet/mainnet?  ---panther
 we will use smartx , solo-chain  , Cyano.
 
 1. edit smartcontract in smartx, dont need deploy.
@@ -85,4 +85,6 @@ we will use smartx , solo-chain  , Cyano.
 #### 13. How to use cyano?
 
 
-#### 14. more task comming
+#### 14. How to use ontology-cli?
+
+#### 15. How to use ontology-signature-server?
